@@ -1,4 +1,4 @@
-## First Name Last Name
+## Isabel Zimmerman
 
 ### Spring 2020 
 
@@ -20,4 +20,4 @@ I am _passionate about_:
 
 - riding horses and bulls
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- looking at things in <https://visualcapitalist.com>
