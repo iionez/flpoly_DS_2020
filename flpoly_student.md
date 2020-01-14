@@ -4,20 +4,20 @@
 
 Data Science student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Intro to Data Science
 
-- Course 2
+- Statistical Learning
 
-- Course 3
+- Time Series Modeling and Forecasting
 
-- Course 4
+- Economic Analysis for Technologists
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- the medical field!
 
-- Thing 2
+- riding horses and bulls
 
 - Thing 3 as shown in this website <https://www.floridapoly.edu>
